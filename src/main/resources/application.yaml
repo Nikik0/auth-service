@@ -3,7 +3,7 @@ server:
 
 spring:
   r2dbc:
-    url: r2dbc:pool:postgres://localhost:5432/security-db
+    url: r2dbc:pool:postgres://localhost:5420/security-db
     username: dev
     password: dev123
 #  flyway:
